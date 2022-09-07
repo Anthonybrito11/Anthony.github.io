@@ -1,0 +1,48 @@
+     html {
+         font-family: 'Times New Roman', Times, serif;
+         text-align: center;
+     }
+     
+     .container {
+         position: relative;
+         justify-content: center;
+         align-items: center;
+     }
+     
+     header {
+         height: 50px;
+         margin: auto;
+         background-color: gray;
+         align-items: center;
+         font-size: x-large;
+     }
+     
+     section#hero {
+         justify-content: center;
+         align-items: center;
+         height: 650px;
+         text-align: center;
+         background-image: url(https://wallpaperaccess.com/full/123112.jpg);
+         color: whitesmoke;
+         font-size: xx-large;
+         font-weight: 100;
+     }
+     
+     header a {
+         color: black;
+     }
+     
+     header .nav-link {
+         color: black
+     }
+     
+     section#skills {
+         height: 700px;
+         align-items: center;
+         background-color: rgb(56, 54, 54);
+     }
+     
+     .card-group {
+         display: flex;
+         align-items: center;
+     }
